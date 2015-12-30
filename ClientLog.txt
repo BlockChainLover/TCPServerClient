@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-12-29T18:04:01</date>
+  <millis>1451441041458</millis>
+  <sequence>0</sequence>
+  <logger>Client</logger>
+  <level>INFO</level>
+  <class>LogManager</class>
+  <method>logINFO</method>
+  <thread>1</thread>
+  <message>1451441041457: Writing to Server: connect</message>
+</record>
+<record>
+  <date>2015-12-29T18:04:01</date>
+  <millis>1451441041543</millis>
+  <sequence>1</sequence>
+  <logger>Client</logger>
+  <level>INFO</level>
+  <class>LogManager</class>
+  <method>logINFO</method>
+  <thread>1</thread>
+  <message>1451441041543: Writing to Server: localhost</message>
+</record>
+</log>

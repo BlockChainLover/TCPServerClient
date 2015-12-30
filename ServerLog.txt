@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-12-29T18:04:01</date>
+  <millis>1451441041344</millis>
+  <sequence>0</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>LogManager</class>
+  <method>logINFO</method>
+  <thread>1</thread>
+  <message>1451441041343: Connection accepted from port: 2520</message>
+</record>
+<record>
+  <date>2015-12-29T18:04:01</date>
+  <millis>1451441041543</millis>
+  <sequence>1</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>LogManager</class>
+  <method>logINFO</method>
+  <thread>1</thread>
+  <message>1451441041543: Read from Client null : connect</message>
+</record>
+<record>
+  <date>2015-12-29T18:04:01</date>
+  <millis>1451441041547</millis>
+  <sequence>2</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>LogManager</class>
+  <method>logINFO</method>
+  <thread>1</thread>
+  <message>1451441041547: Read from Client null : localhost</message>
+</record>
+<record>
+  <date>2015-12-29T18:04:01</date>
+  <millis>1451441041550</millis>
+  <sequence>3</sequence>
+  <logger>Server</logger>
+  <level>INFO</level>
+  <class>LogManager</class>
+  <method>logINFO</method>
+  <thread>1</thread>
+  <message>1451441041550: Connected successfully with client: localhost</message>
+</record>
+<record>
+  <date>2015-12-29T18:04:05</date>
+  <millis>1451441045328</millis>
+  <sequence>4</sequence>
+  <logger>Server</logger>
+  <level>SEVERE</level>
+  <class>LogManager</class>
+  <method>logError</method>
+  <thread>1</thread>
+  <message>1451441045328: Connection reset</message>
+</record>
+<record>
+  <date>2015-12-29T18:04:05</date>
+  <millis>1451441045331</millis>
+  <sequence>5</sequence>
+  <logger>Server</logger>
+  <level>SEVERE</level>
+  <class>LogManager</class>
+  <method>logError</method>
+  <thread>1</thread>
+  <message>1451441045331: Could not connect to 2520</message>
+</record>
+</log>
